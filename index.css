@@ -1,0 +1,46 @@
+		body
+		{
+			background-color: #eaf3da;
+			margin-left:20%;
+			margin-right: 20%;
+			border: 1px dotted maroon;
+			font-family: Verdana, Arial,sans-serif;
+			padding: 10px 10px 10px 10px;
+			font-family: sans-serif;
+		}
+		.personal_info{
+			border-color: maroon;
+			border-width: 1px;
+			border-style: solid;
+			padding: 15px;
+			padding-left: 30px;
+			margin: 15px;
+		}
+		p, h1, h2
+		{
+			color: maroon;
+		}
+		h1{
+			font-weight: bold;
+			border-bottom: 1px solid maroon;
+
+		}
+		#title2 a:link{
+			color: maroon;
+			text-decoration: none;
+		}
+		#subtitle a:link{
+			color: maroon;
+			text-decoration: none;
+		}
+		#subtitle a:visited{
+			color: #333333;
+		}
+		#subtitle a:hover{
+			background: #f88396;
+			color: #0d5353;
+		}
+		ul
+		{
+			color: maroon;
+		}
